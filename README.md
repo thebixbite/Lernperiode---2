@@ -5,8 +5,8 @@ Grob-Planung
 # 16.10.2026
 - [x] Ein Wörter-Sucher Projekt starten.
 - [x] M431 Modul arbeiten. (Ich muss es alles bis am Dienstag abgeben).
-- [ ] Zu Hause erste Teil des Programmierungs beenden
-- [ ] Zu Hause die ganze Code testen und falls etwas falsch ist, debuggen.
+- [x] Zu Hause erste Teil des Programmierungs beenden
+- [x] Zu Hause die ganze Code testen und falls etwas falsch ist, debuggen.
 Ich habe die erste Codes von Wörter-Sucher geschrieben und könnte ein klein M431 arbeiten.
 
 
