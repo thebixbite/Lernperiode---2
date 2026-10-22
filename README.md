@@ -8,6 +8,7 @@ Grob-Planung
 - [x] Zu Hause erste Teil des Programmierungs beenden
 - [x] Zu Hause die ganze Code testen und falls etwas falsch ist, debuggen.
 Ich habe die erste Codes von Wörter-Sucher geschrieben und könnte ein klein M431 arbeiten.
+Zu Hause habe ich die Code geändert aber auch habe ich relisiert, dass diese Projekt zu einfach ist und habe entscheidet, dass ich nächste Unterricht eine neue Anti-Virus Projekt starten will.
 
 
 # 23.10.2026
