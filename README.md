@@ -12,8 +12,17 @@ Zu Hause habe ich die Code geändert aber auch habe ich relisiert, dass diese Pr
 
 
 # 23.10.2026
-- [ ] Neue Projekt "Anti-Virus" starten. Hier werde ich die erste Teil des Codes schreiben und testen, ob es funktionirt oder nicht.
-- [ ] Mehr C#-Codes lernen, um in meine Projekt zu nutzen.
-- [ ] Basis der Code schreiben, um verschiedene Dossier- und Datentypen zu erkennen
+- [x] Neue Projekt "Anti-Virus" starten. Hier werde ich die erste Teil des Codes schreiben und testen, ob es funktionirt oder nicht.
+- [x] Mehr C#-Codes lernen, um in meine Projekt zu nutzen.
+- [x] Basis der Code schreiben, um verschiedene Dossier- und Datentypen zu erkennen
 - [ ] Ein "Scan" Eigenschaft hinzufügen, falls ich noch Zeit habe.
+
+Fast alles hat funktioniert aber ich habe noch realisiert, dass diese Projekt viel schwieriger als ich gedacht habe. Ich habe so viele Sachen geschrieben und so viele gelösch, weil sie nicht funktioniert haben. Zurzeit der Projekt hat 3 Hauptteile zu erledigen: Quick-Scann, Full-Scan und Custom-Scan. Quick-Scan habe ich fast erledigt und als Hausaufgabe werde ich es versuchen zu erledigen. 
+
+
+# 30.10.2026
+- [ ] Quick-Scan Teil komplett erledigen.
+- [ ] Full-Scan Teil anfangen.
+- [ ] UI verbessern (Farbe, Buchstaben usw.).
+- [ ] Ganze Code debuggen.
       
