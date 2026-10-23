@@ -12,8 +12,8 @@ Zu Hause habe ich die Code geändert aber auch habe ich relisiert, dass diese Pr
 
 
 # 23.10.2026
-- [ ] Ein Eigenschaft hinzufügen, wo man die Wörter suchen kann.
+- [ ] Neue Projekt "Anti-Virus" starten. Hier werde ich die erste Teil des Codes schreiben und testen, ob es funktionirt oder nicht.
 - [ ] Mehr C#-Codes lernen, um in meine Projekt zu nutzen.
-- [ ] Ein "ADD FILE" Eigenschaft von ein PDF oder Word-Dossier in meine Projekt hinzufügen.
-- [ ] Neue Eigenschaften für meine Projekt suchen
+- [ ] Basis der Code schreiben, um verschiedene Dossier- und Datentypen zu erkennen
+- [ ] Ein "Scan" Eigenschaft hinzufügen, falls ich noch Zeit habe.
       
